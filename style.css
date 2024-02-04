@@ -1,0 +1,21 @@
+.navbar-clr{
+    background-color: #333e48;
+}
+.card1{
+    background-image: url("images/CategoryImages/sub-banner-1.jpg");
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.card2{
+    background-image: url("images/CategoryImages/sub-banner-2.jpg");
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.card3{
+    background-image: url("images/CategoryImages/sub-banner-3.jpg");
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
