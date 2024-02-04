@@ -19,3 +19,21 @@
     background-size: 100%;
     background-repeat: no-repeat;
 }
+.card-img1{
+    background-image: url("images/CategoryImages/cms-banner-1.jpg");
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.card-img2{
+    background-image: url("images/CategoryImages/cms-banner-2.jpg");
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.bottom-banner{
+    background-image: url("images/offer-banner.jpg");
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
